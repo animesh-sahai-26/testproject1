@@ -1,0 +1,2 @@
+public class PrivateBranch1 {
+}
